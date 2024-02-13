@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    width:100%;
+    background-color: rgb(71, 230, 214);
+    
+    height:70px;
+    
+}
+ul{
+    padding-top:25px;
+    margin-left:650px;
+    display:flex;
+    list-style: none;
+}
+li{
+    margin-left:20px;
+    
+}
+button{
+    margin-left:25px;
+    width:80px;
+    height:35px;
+    margin-top:-8px;
+    background: transparent;
+    border:2px solid black;
+    border-radius: 15px;
+
+    
+
+}
+.container{
+    background-color: aquamarine;
+    display:flex;
+    margin:10px;
+    justify-content: space-around;
+}
+.frame{
+    border:2px solid black;
+    box-shadow:5px 10px 3px;
+}
